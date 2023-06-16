@@ -1,4 +1,25 @@
-table {
-  border: solid;
-  border-color: blue;
+
+body {
+  border: black;
+  border-width: 5px;
+  border-style: solid;
+  flex: 1;
+  flex-direction: row;
+  display: flex;
+}
+h1 {
+  border: black;
+  border-width: 5px;
+  border-style: solid;
+  flex: 1;
+  flex-direction: row;
+  display: flex;
+}
+h2 {
+ border: blue;
+ border-width: 5px;
+ border-style: solid;
+ flex: 1;
+ flex-direction: row;
+ display: flex
 }
